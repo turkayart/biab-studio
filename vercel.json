@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "outputDirectory": "public",
+  "cleanUrls": true,
+  "rewrites": [
+    { "source": "/uye-giris", "destination": "/account.html" },
+    { "source": "/kayit-ol", "destination": "/account.html" },
+    { "source": "/hesabim", "destination": "/account.html" },
+    { "source": "/giris", "destination": "/login.html" },
+    { "source": "/login", "destination": "/login.html" },
+    { "source": "/yonetim", "destination": "/admin.html" },
+    { "source": "/admin", "destination": "/admin.html" }
+  ]
+}

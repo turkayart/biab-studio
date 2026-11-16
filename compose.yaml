@@ -1,0 +1,20 @@
+services:
+  db:
+    image: mysql:8.4
+    container_name: biab-studio-db
+    environment:
+      MYSQL_DATABASE: ${MYSQL_DATABASE:-biab}
+      MYSQL_USER: ${MYSQL_USER:-biab}
+      MYSQL_PASSWORD: ${MYSQL_PASSWORD:?Run npm run setup}
+      MYSQL_ROOT_PASSWORD: ${MYSQL_ROOT_PASSWORD:?Run npm run setup}
+    ports:
+      - "127.0.0.1:13316:3306"
+    volumes:
+      - biab_sql:/var/lib/mysql
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "127.0.0.1"]
+      interval: 5s
+      timeout: 5s
+      retries: 30
+volumes:
+  biab_sql:

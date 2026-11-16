@@ -1,0 +1,731 @@
+[
+  {
+    "id": "69e6a7786db023782b80e04a",
+    "title": "Dainty Moon Bracelet",
+    "price": {
+      "currency": "USD",
+      "value": "68.00"
+    },
+    "soldOut": false,
+    "onSale": false,
+    "description": "&lt;p&gt;&lt;span&gt;Ultricies aliquet ac leo pretium cursus. Nunc senectus etiam enim senectus tincidunt consectetur sem malesuada venenatis? Pretium fermentum eu pretium volutpat mollis. Tempor pellentesque proin magnis semper non condimentum hac facilisis. Vestibulum nulla nascetur lectus quis quisque vulputate etiam donec. Egestas senectus at ultrices mauris velit inceptos. Vitae convallis conubia posuere, taciti donec phasellus. Class accumsan turpis tellus ultricies mus habitasse.&lt;/span&gt;&lt;/p&gt;",
+    "variants": [
+      {
+        "id": "e086a823-9f48-460e-9015-e9d12caa679d",
+        "sku": "SQ7831511",
+        "price": {
+          "currency": "USD",
+          "value": "68.00"
+        },
+        "unlimited": true,
+        "qtyInStock": 0,
+        "soldOut": false,
+        "scarce": false,
+        "attributes": {}
+      }
+    ],
+    "firstInStockVariant": {
+      "id": "e086a823-9f48-460e-9015-e9d12caa679d",
+      "sku": "SQ7831511",
+      "price": {
+        "currency": "USD",
+        "value": "68.00"
+      },
+      "unlimited": true,
+      "qtyInStock": 0,
+      "soldOut": false,
+      "scarce": false,
+      "attributes": {}
+    },
+    "userDefinedVariantOptions": [],
+    "productType": 1,
+    "images": [
+      {
+        "title": "",
+        "originalSize": "1248x1248",
+        "assetUrl": "https://images.squarespace-cdn.com/content/v1/69e6a7776db023782b80df9a/1776723832234-JQRWGKB2A76G8XP2JDWK/pexels-sunsetoned-6536119.jpg",
+        "mediaFocalPoint": {
+          "x": 0.5,
+          "y": 0.5,
+          "source": 3
+        }
+      },
+      {
+        "title": "",
+        "originalSize": "5040x6300",
+        "assetUrl": "https://images.squarespace-cdn.com/content/v1/69e6a7776db023782b80df9a/1776723832243-0JWYMBJ7JJQSLSQHRZ4E/pexels-sunsetoned-6536119.jpg",
+        "mediaFocalPoint": {
+          "x": 0.5,
+          "y": 0.5,
+          "source": 3
+        }
+      }
+    ],
+    "mainImage": {
+      "title": "Dainty Moon Bracelet",
+      "originalSize": "1248x1248",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/69e6a7776db023782b80df9a/1776723832282-5UBEA9CPRTF2XKUW1KF4/pexels-sunsetoned-6536119.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      }
+    },
+    "fullUrl": "/shop/p/dainty-moon-bracelet-kpdyk",
+    "urlSlug": "dainty-moon-bracelet-kpdyk",
+    "qtyInStock": 9223372036854776000,
+    "allowMultiplePurchase": true,
+    "scarce": false,
+    "published": true,
+    "tags": [],
+    "mightHavePaymentPlan": false
+  },
+  {
+    "id": "69e6a7786db023782b80e043",
+    "title": "Dome Ring",
+    "price": {
+      "currency": "USD",
+      "value": "48.00"
+    },
+    "soldOut": false,
+    "onSale": false,
+    "description": "&lt;p&gt;&lt;span&gt;Imperdiet turpis erat rhoncus ullamcorper convallis curae, congue justo ut. Justo potenti quam morbi maecenas lacinia potenti tempus. Himenaeos mauris nascetur mattis eros erat aptent. Ante curabitur morbi elit malesuada condimentum netus. Feugiat augue dapibus pellentesque, facilisis quisque pulvinar vitae.&lt;/span&gt;&lt;/p&gt;",
+    "variants": [
+      {
+        "id": "80e83b06-1aeb-4922-a1dc-ac5722cccbc4",
+        "sku": "SQ1716865",
+        "price": {
+          "currency": "USD",
+          "value": "48.00"
+        },
+        "unlimited": true,
+        "qtyInStock": 0,
+        "soldOut": false,
+        "scarce": false,
+        "attributes": {}
+      }
+    ],
+    "firstInStockVariant": {
+      "id": "80e83b06-1aeb-4922-a1dc-ac5722cccbc4",
+      "sku": "SQ1716865",
+      "price": {
+        "currency": "USD",
+        "value": "48.00"
+      },
+      "unlimited": true,
+      "qtyInStock": 0,
+      "soldOut": false,
+      "scarce": false,
+      "attributes": {}
+    },
+    "userDefinedVariantOptions": [],
+    "productType": 1,
+    "images": [
+      {
+        "title": "",
+        "originalSize": "2500x2500",
+        "assetUrl": "https://images.squarespace-cdn.com/content/v1/69e6a7776db023782b80df9a/1776723832216-O7F4GGBQ49NYD8YN0QTN/pexels-jonathanborba-28900501.jpg",
+        "mediaFocalPoint": {
+          "x": 0.5,
+          "y": 0.5,
+          "source": 3
+        }
+      },
+      {
+        "title": "",
+        "originalSize": "1237x1237",
+        "assetUrl": "https://images.squarespace-cdn.com/content/v1/69e6a7776db023782b80df9a/1776723832225-K0WR94HB26R9BEWX5NHR/pexels-jonathanborba-28900501.jpg",
+        "mediaFocalPoint": {
+          "x": 0.5,
+          "y": 0.5,
+          "source": 3
+        }
+      }
+    ],
+    "mainImage": {
+      "title": "Dome Ring",
+      "originalSize": "2553x3830",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/69e6a7776db023782b80df9a/1776723832294-E6KGJIA69SVROP6DGAL5/pexels-jonathanborba-28900501.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      }
+    },
+    "fullUrl": "/shop/p/dome-ring-tnz86",
+    "urlSlug": "dome-ring-tnz86",
+    "qtyInStock": 9223372036854776000,
+    "allowMultiplePurchase": true,
+    "scarce": false,
+    "published": true,
+    "tags": [],
+    "mightHavePaymentPlan": false
+  },
+  {
+    "id": "69e6a7786db023782b80e03c",
+    "title": "Silver/Gold Bangle Stack",
+    "price": {
+      "currency": "USD",
+      "value": "78.00"
+    },
+    "soldOut": false,
+    "onSale": false,
+    "description": "&lt;p style=\"text-align: start; \"&gt;Imperdiet turpis erat rhoncus ullamcorper convallis curae, congue justo ut. Justo potenti quam morbi maecenas lacinia potenti tempus. Himenaeos mauris nascetur mattis eros erat aptent. Ante curabitur morbi elit malesuada condimentum netus. Feugiat augue dapibus pellentesque, facilisis quisque pulvinar vitae. &lt;/p&gt;",
+    "variants": [
+      {
+        "id": "8b0878df-8580-460e-9c32-7f0bbf07822f",
+        "sku": "SQ6264587",
+        "price": {
+          "currency": "USD",
+          "value": "78.00"
+        },
+        "unlimited": true,
+        "qtyInStock": 0,
+        "soldOut": false,
+        "scarce": false,
+        "attributes": {}
+      }
+    ],
+    "firstInStockVariant": {
+      "id": "8b0878df-8580-460e-9c32-7f0bbf07822f",
+      "sku": "SQ6264587",
+      "price": {
+        "currency": "USD",
+        "value": "78.00"
+      },
+      "unlimited": true,
+      "qtyInStock": 0,
+      "soldOut": false,
+      "scarce": false,
+      "attributes": {}
+    },
+    "userDefinedVariantOptions": [],
+    "productType": 1,
+    "images": [
+      {
+        "title": "",
+        "originalSize": "1127x1007",
+        "assetUrl": "https://images.squarespace-cdn.com/content/v1/69e6a7776db023782b80df9a/1776723832206-41GYJ4WX90M9HYFOZR38/pexels-84327456-15923914.jpg",
+        "mediaFocalPoint": {
+          "x": 0.5,
+          "y": 0.5,
+          "source": 3
+        }
+      },
+      {
+        "title": "",
+        "originalSize": "2267x2042",
+        "assetUrl": "https://images.squarespace-cdn.com/content/v1/69e6a7776db023782b80df9a/1776723832198-YN42GKLIMOGK5B3SA18P/pexels-84327456-15923914.jpg",
+        "mediaFocalPoint": {
+          "x": 0.5,
+          "y": 0.5,
+          "source": 3
+        }
+      }
+    ],
+    "mainImage": {
+      "title": "Silver/Gold Bangle Stack",
+      "originalSize": "1127x1007",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/69e6a7776db023782b80df9a/1776723832354-34X4G205RH4TTCMLNROI/pexels-84327456-15923914.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      }
+    },
+    "fullUrl": "/shop/p/silvergold-bangle-stack-fja7k",
+    "urlSlug": "silvergold-bangle-stack-fja7k",
+    "qtyInStock": 9223372036854776000,
+    "allowMultiplePurchase": true,
+    "scarce": false,
+    "published": true,
+    "tags": [],
+    "mightHavePaymentPlan": false
+  },
+  {
+    "id": "69e6a7786db023782b80e026",
+    "title": "Link Necklace",
+    "price": {
+      "currency": "USD",
+      "value": "88.00"
+    },
+    "soldOut": false,
+    "onSale": false,
+    "description": "&lt;p&gt;&lt;span&gt;Imperdiet turpis erat rhoncus ullamcorper convallis curae, congue justo ut. Justo potenti quam morbi maecenas lacinia potenti tempus. Himenaeos mauris nascetur mattis eros erat aptent. Ante curabitur morbi elit malesuada condimentum netus. Feugiat augue dapibus pellentesque, facilisis quisque pulvinar vitae.&lt;/span&gt;&lt;/p&gt;",
+    "variants": [
+      {
+        "id": "0fe8930b-e190-4b36-9541-97539d515be0",
+        "sku": "SQ7514680",
+        "price": {
+          "currency": "USD",
+          "value": "88.00"
+        },
+        "unlimited": true,
+        "qtyInStock": 0,
+        "soldOut": false,
+        "scarce": false,
+        "attributes": {}
+      }
+    ],
+    "firstInStockVariant": {
+      "id": "0fe8930b-e190-4b36-9541-97539d515be0",
+      "sku": "SQ7514680",
+      "price": {
+        "currency": "USD",
+        "value": "88.00"
+      },
+      "unlimited": true,
+      "qtyInStock": 0,
+      "soldOut": false,
+      "scarce": false,
+      "attributes": {}
+    },
+    "userDefinedVariantOptions": [],
+    "productType": 1,
+    "images": [
+      {
+        "title": "",
+        "originalSize": "4000x6000",
+        "assetUrl": "https://images.squarespace-cdn.com/content/v1/69e6a7776db023782b80df9a/1776723832146-WJMI9C8Y4G9BTUIGJECV/pexels-natalie-bond-320378-21787517.jpg",
+        "mediaFocalPoint": {
+          "x": 0.5,
+          "y": 0.5,
+          "source": 3
+        }
+      },
+      {
+        "title": "",
+        "originalSize": "1393x2090",
+        "assetUrl": "https://images.squarespace-cdn.com/content/v1/69e6a7776db023782b80df9a/1776723832137-SU0YIMKY6U1PRYYZG8XY/pexels-natalie-bond-320378-21787517.jpg",
+        "mediaFocalPoint": {
+          "x": 0.5,
+          "y": 0.5,
+          "source": 3
+        }
+      }
+    ],
+    "mainImage": {
+      "title": "Link Necklace",
+      "originalSize": "4000x6000",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/69e6a7776db023782b80df9a/1776723832306-XH0JU3D4DDZBONLIHNSC/pexels-natalie-bond-320378-21787517.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      }
+    },
+    "fullUrl": "/shop/p/link-necklace-9yhjx",
+    "urlSlug": "link-necklace-9yhjx",
+    "qtyInStock": 9223372036854776000,
+    "allowMultiplePurchase": true,
+    "scarce": false,
+    "published": true,
+    "tags": [],
+    "mightHavePaymentPlan": false
+  },
+  {
+    "id": "69e6a7786db023782b80e016",
+    "title": "Medium Hoop",
+    "price": {
+      "currency": "USD",
+      "value": "78.00"
+    },
+    "soldOut": false,
+    "onSale": false,
+    "description": "&lt;p&gt;&lt;span&gt;Imperdiet turpis erat rhoncus ullamcorper convallis curae, congue justo ut. Justo potenti quam morbi maecenas lacinia potenti tempus. Himenaeos mauris nascetur mattis eros erat aptent. Ante curabitur morbi elit malesuada condimentum netus. Feugiat augue dapibus pellentesque, facilisis quisque pulvinar vitae.&lt;/span&gt;&lt;/p&gt;",
+    "variants": [
+      {
+        "id": "228606b0-7110-4bf6-b2db-89d9fc3ac70e",
+        "sku": "SQ3224531",
+        "price": {
+          "currency": "USD",
+          "value": "78.00"
+        },
+        "unlimited": true,
+        "qtyInStock": 0,
+        "soldOut": false,
+        "scarce": false,
+        "attributes": {}
+      }
+    ],
+    "firstInStockVariant": {
+      "id": "228606b0-7110-4bf6-b2db-89d9fc3ac70e",
+      "sku": "SQ3224531",
+      "price": {
+        "currency": "USD",
+        "value": "78.00"
+      },
+      "unlimited": true,
+      "qtyInStock": 0,
+      "soldOut": false,
+      "scarce": false,
+      "attributes": {}
+    },
+    "userDefinedVariantOptions": [],
+    "productType": 1,
+    "images": [
+      {
+        "title": "",
+        "originalSize": "2500x2144",
+        "assetUrl": "https://images.squarespace-cdn.com/content/v1/69e6a7776db023782b80df9a/1776723832096-RCQMANRP177RU3HUGH86/pexels-mlkbnl-12194345.jpg",
+        "mediaFocalPoint": {
+          "x": 0.5,
+          "y": 0.5,
+          "source": 3
+        }
+      },
+      {
+        "title": "",
+        "originalSize": "1692x1451",
+        "assetUrl": "https://images.squarespace-cdn.com/content/v1/69e6a7776db023782b80df9a/1776723832104-9YAUFIDAJNRDG6EZ2KUK/pexels-mlkbnl-12194345.jpg",
+        "mediaFocalPoint": {
+          "x": 0.5,
+          "y": 0.5,
+          "source": 3
+        }
+      }
+    ],
+    "mainImage": {
+      "title": "Medium Hoop",
+      "originalSize": "2500x2144",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/69e6a7776db023782b80df9a/1776723832318-RR5HIYWZMKDDUD4T4YF8/pexels-mlkbnl-12194345.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      }
+    },
+    "fullUrl": "/shop/p/medium-hoop-n7rw4",
+    "urlSlug": "medium-hoop-n7rw4",
+    "qtyInStock": 9223372036854776000,
+    "allowMultiplePurchase": true,
+    "scarce": false,
+    "published": true,
+    "tags": [],
+    "mightHavePaymentPlan": false
+  },
+  {
+    "id": "69e6a7786db023782b80dffa",
+    "title": "Irregular Pearl Neclace",
+    "price": {
+      "currency": "USD",
+      "value": "148.00"
+    },
+    "soldOut": false,
+    "onSale": false,
+    "description": "&lt;p&gt;&lt;span&gt;Imperdiet turpis erat rhoncus ullamcorper convallis curae, congue justo ut. Justo potenti quam morbi maecenas lacinia potenti tempus. Himenaeos mauris nascetur mattis eros erat aptent. Ante curabitur morbi elit malesuada condimentum netus. Feugiat augue dapibus pellentesque, facilisis quisque pulvinar vitae.&lt;/span&gt;&lt;/p&gt;",
+    "variants": [
+      {
+        "id": "36608fd5-1b4c-4499-8ee1-b04af5de60ba",
+        "sku": "SQ4334053",
+        "price": {
+          "currency": "USD",
+          "value": "148.00"
+        },
+        "unlimited": true,
+        "qtyInStock": 1,
+        "soldOut": false,
+        "scarce": false,
+        "attributes": {}
+      }
+    ],
+    "firstInStockVariant": {
+      "id": "36608fd5-1b4c-4499-8ee1-b04af5de60ba",
+      "sku": "SQ4334053",
+      "price": {
+        "currency": "USD",
+        "value": "148.00"
+      },
+      "unlimited": true,
+      "qtyInStock": 1,
+      "soldOut": false,
+      "scarce": false,
+      "attributes": {}
+    },
+    "userDefinedVariantOptions": [],
+    "productType": 1,
+    "images": [
+      {
+        "title": "",
+        "originalSize": "1449x808",
+        "assetUrl": "https://images.squarespace-cdn.com/content/v1/69e6a7776db023782b80df9a/1776723832172-PPYR7S7AGCA0KKHCICL9/pexels-84327456-8910334%252B%2525281%252529.jpg",
+        "mediaFocalPoint": {
+          "x": 0.5,
+          "y": 0.5,
+          "source": 3
+        }
+      },
+      {
+        "title": "",
+        "originalSize": "2500x1394",
+        "assetUrl": "https://images.squarespace-cdn.com/content/v1/69e6a7776db023782b80df9a/1776723832163-64A1C148T0QTKQ9DK7I3/pexels-84327456-8910334%2B%25281%2529.jpg",
+        "mediaFocalPoint": {
+          "x": 0.5,
+          "y": 0.5,
+          "source": 3
+        }
+      }
+    ],
+    "mainImage": {
+      "title": "Irregular Pearl Neclace",
+      "originalSize": "1449x808",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/69e6a7776db023782b80df9a/1776723832257-Q5A2D9D8SC0PTZA0566E/pexels-84327456-8910334%252B%2525281%252529.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      }
+    },
+    "fullUrl": "/shop/p/country-feast-set-4sly9-87f8f-5rgnc-3d88l-9hxjn-wf8n6-9ysxn-ke2g2-ppwy6-5tdpz",
+    "urlSlug": "country-feast-set-4sly9-87f8f-5rgnc-3d88l-9hxjn-wf8n6-9ysxn-ke2g2-ppwy6-5tdpz",
+    "qtyInStock": 9223372036854776000,
+    "allowMultiplePurchase": true,
+    "scarce": false,
+    "published": true,
+    "tags": [],
+    "mightHavePaymentPlan": false
+  },
+  {
+    "id": "69e6a7786db023782b80dff6",
+    "title": "Ring Stack",
+    "price": {
+      "currency": "USD",
+      "value": "58.00"
+    },
+    "soldOut": false,
+    "onSale": false,
+    "description": "&lt;p&gt;&lt;span&gt;Imperdiet turpis erat rhoncus ullamcorper convallis curae, congue justo ut. Justo potenti quam morbi maecenas lacinia potenti tempus. Himenaeos mauris nascetur mattis eros erat aptent. Ante curabitur morbi elit malesuada condimentum netus. Feugiat augue dapibus pellentesque, facilisis quisque pulvinar vitae.&lt;/span&gt;&lt;/p&gt;",
+    "variants": [
+      {
+        "id": "a633a53e-02e8-439e-a4aa-75c3135c243e",
+        "sku": "SQ0817858",
+        "price": {
+          "currency": "USD",
+          "value": "58.00"
+        },
+        "unlimited": true,
+        "qtyInStock": 1,
+        "soldOut": false,
+        "scarce": false,
+        "attributes": {}
+      }
+    ],
+    "firstInStockVariant": {
+      "id": "a633a53e-02e8-439e-a4aa-75c3135c243e",
+      "sku": "SQ0817858",
+      "price": {
+        "currency": "USD",
+        "value": "58.00"
+      },
+      "unlimited": true,
+      "qtyInStock": 1,
+      "soldOut": false,
+      "scarce": false,
+      "attributes": {}
+    },
+    "userDefinedVariantOptions": [],
+    "productType": 1,
+    "images": [
+      {
+        "title": "",
+        "originalSize": "2070x2070",
+        "assetUrl": "https://images.squarespace-cdn.com/content/v1/69e6a7776db023782b80df9a/1776723832190-H3XV61R708JF3RR4QYW8/pexels-84327456-8872288.jpg",
+        "mediaFocalPoint": {
+          "x": 0.5,
+          "y": 0.5,
+          "source": 3
+        }
+      },
+      {
+        "title": "",
+        "originalSize": "3024x4032",
+        "assetUrl": "https://images.squarespace-cdn.com/content/v1/69e6a7776db023782b80df9a/1776723832181-Q3VM195EK8Z6LLA90GP8/pexels-84327456-8872288.jpg",
+        "mediaFocalPoint": {
+          "x": 0.5,
+          "y": 0.5,
+          "source": 3
+        }
+      }
+    ],
+    "mainImage": {
+      "title": "Ring Stack",
+      "originalSize": "2070x2070",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/69e6a7776db023782b80df9a/1776723832269-RZBVUUNOJR0ZVUZGTFYA/pexels-84327456-8872288.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      }
+    },
+    "fullUrl": "/shop/p/country-feast-set-4sly9-87f8f-cynbw-fx8d6-lxl9t-g439h-z2bsx-pk5y5-7tj7y",
+    "urlSlug": "country-feast-set-4sly9-87f8f-cynbw-fx8d6-lxl9t-g439h-z2bsx-pk5y5-7tj7y",
+    "qtyInStock": 9223372036854776000,
+    "allowMultiplePurchase": true,
+    "scarce": false,
+    "published": true,
+    "tags": [],
+    "mightHavePaymentPlan": false
+  },
+  {
+    "id": "69e6a7786db023782b80e005",
+    "title": "Charm Pendant Stack",
+    "price": {
+      "currency": "USD",
+      "value": "128.00"
+    },
+    "soldOut": false,
+    "onSale": false,
+    "description": "&lt;p&gt;&lt;span&gt;Imperdiet turpis erat rhoncus ullamcorper convallis curae, congue justo ut. Justo potenti quam morbi maecenas lacinia potenti tempus. Himenaeos mauris nascetur mattis eros erat aptent. Ante curabitur morbi elit malesuada condimentum netus. Feugiat augue dapibus pellentesque, facilisis quisque pulvinar vitae.&lt;/span&gt;&lt;/p&gt;",
+    "variants": [
+      {
+        "id": "0c2472ac-d649-4be1-9b03-2d506114140c",
+        "sku": "SQ5862510",
+        "price": {
+          "currency": "USD",
+          "value": "128.00"
+        },
+        "unlimited": true,
+        "qtyInStock": 1,
+        "soldOut": false,
+        "scarce": false,
+        "attributes": {}
+      }
+    ],
+    "firstInStockVariant": {
+      "id": "0c2472ac-d649-4be1-9b03-2d506114140c",
+      "sku": "SQ5862510",
+      "price": {
+        "currency": "USD",
+        "value": "128.00"
+      },
+      "unlimited": true,
+      "qtyInStock": 1,
+      "soldOut": false,
+      "scarce": false,
+      "attributes": {}
+    },
+    "userDefinedVariantOptions": [],
+    "productType": 1,
+    "images": [
+      {
+        "title": "",
+        "originalSize": "3024x4032",
+        "assetUrl": "https://images.squarespace-cdn.com/content/v1/69e6a7776db023782b80df9a/1776723832129-8WBBK7KDJII7RMZYM2X4/pexels-eugenia-remark-5767088-23495720.jpg",
+        "mediaFocalPoint": {
+          "x": 0.5,
+          "y": 0.5,
+          "source": 3
+        }
+      },
+      {
+        "title": "",
+        "originalSize": "3024x4032",
+        "assetUrl": "https://images.squarespace-cdn.com/content/v1/69e6a7776db023782b80df9a/1776723832121-507IRN2MGY0DMX4SDSKI/pexels-eugenia-remark-5767088-23495721.jpg",
+        "mediaFocalPoint": {
+          "x": 0.5,
+          "y": 0.5,
+          "source": 3
+        }
+      }
+    ],
+    "mainImage": {
+      "title": "Charm Pendant Stack",
+      "originalSize": "3024x4032",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/69e6a7776db023782b80df9a/1776723832331-F620FWJJ12QT4LSOJYBH/pexels-eugenia-remark-5767088-23495720.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      }
+    },
+    "fullUrl": "/shop/p/milk-dip-cup-d994j-4gsl4-rr3kf-5xnh9-ffcah-9xejm-mcmf4-jcf52-ext4z",
+    "urlSlug": "milk-dip-cup-d994j-4gsl4-rr3kf-5xnh9-ffcah-9xejm-mcmf4-jcf52-ext4z",
+    "qtyInStock": 9223372036854776000,
+    "allowMultiplePurchase": true,
+    "scarce": false,
+    "published": true,
+    "tags": [],
+    "mightHavePaymentPlan": false
+  },
+  {
+    "id": "69e6a7786db023782b80e009",
+    "title": "Textured Hoops",
+    "price": {
+      "currency": "USD",
+      "value": "78.00"
+    },
+    "soldOut": false,
+    "onSale": false,
+    "description": "&lt;p&gt;&lt;span&gt;Imperdiet turpis erat rhoncus ullamcorper convallis curae, congue justo ut. Justo potenti quam morbi maecenas lacinia potenti tempus. Himenaeos mauris nascetur mattis eros erat aptent. Ante curabitur morbi elit malesuada condimentum netus. Feugiat augue dapibus pellentesque, facilisis quisque pulvinar vitae.&lt;/span&gt;&lt;/p&gt;",
+    "variants": [
+      {
+        "id": "4cf2477c-649d-4f6a-87c2-ddaa73d853ac",
+        "sku": "SQ7660336",
+        "price": {
+          "currency": "USD",
+          "value": "78.00"
+        },
+        "unlimited": true,
+        "qtyInStock": 1,
+        "soldOut": false,
+        "scarce": false,
+        "attributes": {}
+      }
+    ],
+    "firstInStockVariant": {
+      "id": "4cf2477c-649d-4f6a-87c2-ddaa73d853ac",
+      "sku": "SQ7660336",
+      "price": {
+        "currency": "USD",
+        "value": "78.00"
+      },
+      "unlimited": true,
+      "qtyInStock": 1,
+      "soldOut": false,
+      "scarce": false,
+      "attributes": {}
+    },
+    "userDefinedVariantOptions": [],
+    "productType": 1,
+    "images": [
+      {
+        "title": "",
+        "originalSize": "3114x3392",
+        "assetUrl": "https://images.squarespace-cdn.com/content/v1/69e6a7776db023782b80df9a/1776723832087-WR6IHFRXQUAZ89QK3OCO/pexels-mlkbnl-12168884.jpg",
+        "mediaFocalPoint": {
+          "x": 0.5,
+          "y": 0.5,
+          "source": 3
+        }
+      },
+      {
+        "title": "",
+        "originalSize": "1692x1843",
+        "assetUrl": "https://images.squarespace-cdn.com/content/v1/69e6a7776db023782b80df9a/1776723832114-BZG533NLMYIR0847R2UH/pexels-mlkbnl-12168884.jpg",
+        "mediaFocalPoint": {
+          "x": 0.5,
+          "y": 0.5,
+          "source": 3
+        }
+      }
+    ],
+    "mainImage": {
+      "title": "Textured Hoops",
+      "originalSize": "3114x3392",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/69e6a7776db023782b80df9a/1776723832366-UL40IXV7O2BNBOW44HGK/pexels-mlkbnl-12168884.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      }
+    },
+    "fullUrl": "/shop/p/spring-bowl-p8djw-8gelf-a5w5w-n8tlk-bjls3-d7yk7-sd89m-6egdy-nwt8e",
+    "urlSlug": "spring-bowl-p8djw-8gelf-a5w5w-n8tlk-bjls3-d7yk7-sd89m-6egdy-nwt8e",
+    "qtyInStock": 9223372036854776000,
+    "allowMultiplePurchase": true,
+    "scarce": false,
+    "published": true,
+    "tags": [],
+    "mightHavePaymentPlan": false
+  }
+]
